@@ -1,0 +1,5 @@
+# Work on arduino
+- debug
+- get elegoo kit: https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.AcWZy-Yg4mDTnhzEHozxzPmNTmLb20FGauR4cejtTT1GZiLPdEaYonnjOw4lCAYhV6Uo1sI9Tl5LNpYvZ92K7Z1CSAYq_9I13WyucS928BP6petdwELrI5xiGe4XhT4eBGhT__cjYi8dU9rgXAhyqeVQO0_exIylob9jr2F2YIblY85hai7iWIkPA5EVfatvjzui3z-a5oSoZeBptf4kxU7U8Ly06wDRUhbUZQnhy2FOTJvUHz7YGQIpNhjweqahZbWw2wE_oeCiZ6X5FIAnhTc5AX1YNyKtCTAgI-UJN7A.YT8d_EKeqYg2SH8mYTw3rEP8D72-yXmclGi9msWeRXM&dib_tag=se&hvadid=570507094768&hvdev=c&hvlocphy=9193836&hvnetw=g&hvqmt=e&hvrand=8574820156178522326&hvtargid=kwd-324067858234&hydadcr=18008_13462236&keywords=elegoo+starter+kit&qid=1726337279&s=electronics&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+
+- watch arduino playlist: https://www.youtube.com/watch?v=fJWR7dBuc18&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP 
